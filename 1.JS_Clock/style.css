@@ -1,0 +1,14 @@
+ /* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Orbitron:wght@400;500;700&family=Poppins:wght@200;300;400;600;700&display=swap');  */
+body{
+    background: black;
+}
+.clock{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: rgb(157, 19, 4);
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+}
